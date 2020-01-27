@@ -1,0 +1,2 @@
+astr="hello"
+print(astr)
